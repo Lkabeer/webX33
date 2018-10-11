@@ -1,0 +1,27 @@
+{
+  "name": "webx33-aos",
+  "version": "1.0.0",
+  "description": "Parallax X-Team",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lkabeer/webX33.git"
+  },
+  "keywords": [
+    "X-Team"
+  ],
+  "author": "X-Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lkabeer/webX33/issues"
+  },
+  "homepage": "https://github.com/Lkabeer/webX33#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
